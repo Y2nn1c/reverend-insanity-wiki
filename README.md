@@ -8,4 +8,4 @@ I already had an account prior to starting this wiki and do not have the money n
 
 # I want to contribute
 
-Well you can. Please head over to the contributing file for the details.
+Well you can. Please head over to the [contributing file](https://github.com/Y2nn1c/reverend-insanity-wiki/blob/main/CONTRIBUTING.md) for the details.
