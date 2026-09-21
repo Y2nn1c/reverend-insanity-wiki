@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /reverend-insanity-wiki/
 ---
 
 # Welcome to the Reverend Insanity wiki
