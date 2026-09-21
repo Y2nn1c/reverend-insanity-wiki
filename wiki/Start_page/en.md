@@ -1,7 +1,3 @@
----
-permalink: /reverend-insanity-wiki/
----
-
 # Welcome to the Reverend Insanity wiki
 
 Reverend Insanity is a webnovel written by Hu YongXiang, who is best known under his pen name Gu Zhen Ren.<br>
