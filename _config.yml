@@ -1,5 +1,5 @@
 defaults:
   - scope:
-    path: "wiki/Start_page"
-  values:
-    layout: "Start_page"
+      path: "wiki/Start_page"
+    values:
+      layout: "Start_page"
