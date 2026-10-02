@@ -1,1 +1,1 @@
-According to [Fang Yuan](/wiki/character/Fang%20Yuan/) in chapter one, the [Spring Autumn Cicada](/wiki/gu/Spring%20Autumn%20Cicada/) is rank seven.
+According to [Fang Yuan](/wiki/character/Fang%20Yuan/en.md) in chapter one, the [Spring Autumn Cicada](/wiki/gu/Spring%20Autumn%20Cicada/en.md) is rank seven.
