@@ -27,9 +27,9 @@ defaults:
       layout: "location"
 
   - scope:
-      path: "wiki/organization"
+      path: "wiki/organisation"
     values:
-      layout: "organization"
+      layout: "organisation"
 
   - scope:
       path: "wiki/start_page"
