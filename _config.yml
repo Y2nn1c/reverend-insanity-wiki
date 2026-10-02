@@ -3,3 +3,38 @@ defaults:
       path: "wiki/start_page"
     values:
       layout: "start_page"
+
+  - scope:
+      path: "wiki/character"
+    values:
+      layout: "character"
+
+  - scope:
+      path: "wiki/character"
+    values:
+      layout: "character"
+
+  - scope:
+      path: "wiki/grade"
+    values:
+      layout: "grade"
+
+  - scope:
+      path: "wiki/gu"
+    values:
+      layout: "gu"
+
+  - scope:
+      path: "wiki/location"
+    values:
+      layout: "location"
+
+  - scope:
+      path: "wiki/organization"
+    values:
+      layout: "organization"
+
+  - scope:
+      path: "wiki/Ten_Big_Mystical_Gu_ranking"
+    values:
+      layout: "Ten_Big_Mystical_Gu_ranking" 

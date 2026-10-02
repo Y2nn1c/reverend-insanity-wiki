@@ -1,3 +1,7 @@
+---
+title: Chapter 1
+---
+
 # The heart of a demon never has regret even in death (縱身亡魔心仍不悔)
 
 ## Characters

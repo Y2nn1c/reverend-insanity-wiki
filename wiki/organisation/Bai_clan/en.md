@@ -1,3 +1,7 @@
+---
+title: Bai clan 
+---
+
 The Bai clan (白家, Bai family) is located on [Qing Mao mountain](/wiki/location/Qing_Mao_mountain/en.md).
 
 # Members
