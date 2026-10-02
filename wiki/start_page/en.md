@@ -15,16 +15,16 @@ The second adaptation was started in 2025 as a fan project and is currently stil
 [1](/wiki/chapter/1/en.md)
 
 # Characters
-[Fang Yuan](../character/Fang_Yuan/en.md), [Bai Ning Bing](../character/Bai_Ning_Bing/en.md), [Gu Yue clan head](/wiki/character/Gu_Yue_clan_head/en.md), [Fang Zhi](/wiki/character/Fang_Zhi/en.md)
+[Fang Yuan](../character/Fang_Yuan/en.md), [Bai Ning Bing](../character/Bai_Ning_Bing/en.md), [Gu Yue clan head](../character/Gu_Yue_clan_head/en.md), [Fang Zhi](../character/Fang_Zhi/en.md)
 
 # Gus
-[Spring Autumn Cicada](/wiki/gu/Spring_Autumn_Cicada/en.md)
+[Spring Autumn Cicada](../gu/Spring_Autumn_Cicada/en.md)
 
 # Organisations
-[Gu Yue clan](/wiki/organisation/Gu_Yue_clan/en.md), [Bai clan](/wiki/organisation/Bai_clan/en.md), [Xiong clan](/wiki/organisation/Xiong_clan/en.md)
+[Gu Yue clan](../organisation/Gu_Yue_clan/en.md), [Bai clan](../organisation/Bai_clan/en.md), [Xiong clan](../organisation/Xiong_clan/en.md)
 
 # Locations
-[Qing Mao mountain](/wiki/location/Qing_Mao_mountain/en.md)
+[Qing Mao mountain](../location/Qing_Mao_mountain/en.md)
 
 # Ten Big Mystical Gu ranking
-[Ranking](/wiki/Ten_Big_Mystical_Gu_ranking/en.md)
+[Ranking](../Ten_Big_Mystical_Gu_ranking/en.md)
