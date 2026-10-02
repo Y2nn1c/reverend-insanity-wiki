@@ -11,18 +11,18 @@ title: Chapter 1
 ### Mentioned
 [Bai Ning Bing](../../character/Bai_Ning_Bing/en.md)
 
+## Gus
+[Spring Autumn Cicada](../../gu/Spring_Autumn_Cicada/en.md)
+
 ## Locations
 [Qing Mao mountain](../../location/Qing_Mao_mountain/en.md)
 
-## Organizations
+## Organisations
 [Gu Yue clan](../../organisation/Gu_Yue_clan/en.md)
 
 ### Mentioned
 [Bai clan](../../organisation/Bai_clan/en.md)
 [Xiong clan](../../organisation/Xiong_clan/en.md)
-
-## Gus
-[Spring Autumn Cicada](../../gu/Spring_Autumn_Cicada/en.md)
 
 ## Summary
 After being surrounded by countless enemies, [Fang Yuan](../../character/Fang_Yuan/en.md) is forced to use the [Spring Autumn Cicada](../../gu/Spring_Autumn_Cicada/en.md) to go back five hundred years in time.
