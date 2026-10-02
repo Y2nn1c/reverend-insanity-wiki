@@ -1,5 +1,6 @@
 ---
 title: Fang Yuan
+permalink: /wiki/character/Fang_Yuan/en/
 ---
 Gu Yue Fang Yuan (古月方源, ancient moon Fang Yuan) is the protagonist of Reverend Insanity.
 Originally a chinese student from earth, he was transported into the gu world where he was born as part of the [Gu Yue clan](/wiki/organisation/Gu_Yue_clan/en.md).
