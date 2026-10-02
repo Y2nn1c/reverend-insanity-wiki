@@ -1,13 +1,8 @@
 defaults:
   - scope:
-      path: "wiki/start_page"
+      path: "wiki/chapter"
     values:
-      layout: "start_page"
-
-  - scope:
-      path: "wiki/character"
-    values:
-      layout: "character"
+      layout: "chapter"
 
   - scope:
       path: "wiki/character"
@@ -33,6 +28,11 @@ defaults:
       path: "wiki/organization"
     values:
       layout: "organization"
+
+  - scope:
+      path: "wiki/start_page"
+    values:
+      layout: "start_page"
 
   - scope:
       path: "wiki/Ten_Big_Mystical_Gu_ranking"
