@@ -15,7 +15,7 @@ The second adaptation was started in 2025 as a fan project and is currently stil
 [1](/wiki/chapter/1/en.md)
 
 # Characters
-[Fang Yuan](/wiki/character/Fang_Yuan/en.md), [Bai Ning Bing](/wiki/character/Bai_Ning_Bing/en.md), [Gu Yue clan head](/wiki/character/Gu_Yue_clan_head/en.md), [Fang Zhi](/wiki/character/Fang_Zhi/en.md)
+[Fang Yuan]({{"/wiki/character/Fang_Yuan/en/" | relative_url}}), [Bai Ning Bing](/wiki/character/Bai_Ning_Bing/en.md), [Gu Yue clan head](/wiki/character/Gu_Yue_clan_head/en.md), [Fang Zhi](/wiki/character/Fang_Zhi/en.md)
 
 # Gus
 [Spring Autumn Cicada](/wiki/gu/Spring_Autumn_Cicada/en.md)
