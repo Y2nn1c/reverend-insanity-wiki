@@ -12,7 +12,7 @@ The first was started in 2017 and later discontinued at 96 chapters.<br>
 The second adaptation was started in 2025 as a fan project and is currently still ongoing.
 
 # Chapters
-[1](/wiki/chapter/1/en.md)
+[1](../chapter/1/en.md)
 
 # Characters
 [Fang Yuan](../character/Fang_Yuan/en.md), [Bai Ning Bing](../character/Bai_Ning_Bing/en.md), [Gu Yue clan head](../character/Gu_Yue_clan_head/en.md), [Fang Zhi](../character/Fang_Zhi/en.md)
