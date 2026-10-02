@@ -1,1 +1,1 @@
-Fang Zhi (方之) is part of the [Gu Yue clan](/wiki/organisation/Gu%20Yue%20clan/en.md) and the father of [Yang Yuan](/wiki/character/Fang%20Yuan/en.md).
+Fang Zhi (方之) is part of the [Gu Yue clan](/wiki/organisation/Gu_Yue_clan/en.md) and the father of [Yang Yuan](/wiki/character/Fang_Yuan/en.md).
