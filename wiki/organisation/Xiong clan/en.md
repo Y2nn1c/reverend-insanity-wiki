@@ -1,1 +1,1 @@
-The Xiong clan (熊家寨這, Xiong family village) is located on Qing Mao mountain.
+The Xiong clan (熊家寨這, Xiong family village) is located on [Qing Mao mountain](/wiki/location/Qing%20Mao%20mountain/).

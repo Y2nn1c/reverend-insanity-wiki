@@ -1,8 +1,8 @@
-The Gu Yue clan (的古月山寨, Gu Yue mountain village, ancient moon mountain village) is a clan located on Qing Mao Mountain.
+The Gu Yue clan (的古月山寨, Gu Yue mountain village, ancient moon mountain village) is a clan located on [Qing Mao mountain](/wiki/location/Qing%20Mao%20mountain/).
 
 # Members
-Gu Yue clan head
-Fang Yuan
+[Gu Yue clan head](/wiki/character/Gu%20Yue%20clan%20head/)
+[Fang Yuan](/wiki/character/Fang%20Yuan/)
 
 # Grand ceremony
 The annual grand ceremony.
