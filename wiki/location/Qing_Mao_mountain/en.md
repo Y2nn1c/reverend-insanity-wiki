@@ -3,6 +3,7 @@ title: Qing Mao Mountain
 ---
 
 Qing Mao Mountain (青茅山) is a mountain which houses three clans.
+The houses on the mountain are tall and number in the four digits.
 
 # Organisations
 [Gu Yue clan](../../organisation/Gu_Yue_clan/en.md)
