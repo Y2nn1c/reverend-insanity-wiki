@@ -11,6 +11,10 @@ His first life in the gu world went on for five hundred years where he became a 
 He wore torn, green robes with disheveled hair while being drenched in blood from his numerous wounds.
 His facial expression was completely calm with his eyes appearing like a bottomless well.
 
+# Cultivation
+Rank ??? (Chapter 1, before using [Spring Autumn Cicada](../../gu/Spring_Autumn_Cicada/en.md))
+Mortal (Chapter 1, after using [Spring Autumn Cicada](../../gu/Spring_Autumn_Cicada/en.md))
+
 # Gu
 [Spring Autum Cicada](../../gu/Spring_Autumn_Cicada/en.md)
 
