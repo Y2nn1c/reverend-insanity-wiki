@@ -9,7 +9,7 @@ The Gu Yue clan (的古月山寨, Gu Yue mountain village, ancient moon mountain
 [Fang Yuan](../../character/Fang_Yuan/en.md)
 
 # Grand ceremony
-The annual grand ceremony.
+The annual grand ceremony which is held each spring.
 
 # Locations
 ## Main Pavilion
