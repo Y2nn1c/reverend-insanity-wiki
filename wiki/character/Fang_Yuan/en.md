@@ -24,3 +24,8 @@ The sun sets above the blue mountain, the autumn moon with the wind of spring. T
 
 # Plot
 After being forced to go back five hundred years in time with the [Spring Autumn Cicada](../../gu/Spring_Autumn_Cicada/en.md), Fang Yuan found himself back in the [Gu Yue clan](../../organisation/Gu_Yue_clan/en.md) on the day before the grand ceremony.
+
+# All appearances
+1
+
+# All mentions

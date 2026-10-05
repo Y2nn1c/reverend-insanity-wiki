@@ -18,3 +18,8 @@ The floor is yellow brownish.
 It holds a tall, black laquered table with three layers on it's case, each housing an ancestral tablet.
 Copper incense is situated on both sides of the tablets.
 One of them is a prayer by the clan's higher ups, in hopes for great talents at the annual grand ceremony.
+
+# All appearances
+1
+
+# All mentions
