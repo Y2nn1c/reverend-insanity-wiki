@@ -9,3 +9,8 @@ The houses on the mountain are tall and number in the four digits.
 [Gu Yue clan](../../organisation/Gu_Yue_clan/en.md)
 [Bai village](../../organisation/Bai_clan/en.md)
 [Xiong village](../../organisation/Xiong_clan/en.md)
+
+# All appearances
+1
+
+# All mentions

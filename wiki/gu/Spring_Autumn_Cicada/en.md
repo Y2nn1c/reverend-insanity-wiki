@@ -7,3 +7,8 @@ It was used to transport him five hundred years back into the past at the beginn
 
 # Ability
 It takes the user and itself back in time. The user will wake up in their old body and retain all of their memories. The Spring Autumn Cicada stays as their refined gu. 
+
+# All appearances
+1
+
+# All mentions
