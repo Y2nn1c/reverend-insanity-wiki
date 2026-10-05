@@ -6,3 +6,8 @@ The Bai clan (白家, Bai family) is located on [Qing Mao mountain](../../locati
 
 # Members
 [Bai Ning Bing](../../character/Bai_Ning_Bing/en.md)
+
+# All appearances
+
+# All mentions
+1
