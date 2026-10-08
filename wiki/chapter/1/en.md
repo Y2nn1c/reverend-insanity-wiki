@@ -10,6 +10,9 @@ title: Chapter 1
 
 ### Mentioned
 [Bai Ning Bing](../../character/Bai_Ning_Bing/en.md)
+[Fang Zhi](../../character/Fang_Zhi/en.md)
+[Aunt of Fang Yuan](../../character/Fang_Aunt/en.md)
+[Uncle of Fang Yuan](../../character/Fang_Uncle/en.md)
 
 ## Gus
 [Spring Autumn Cicada](../../gu/Spring_Autumn_Cicada/en.md)
