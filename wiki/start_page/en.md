@@ -14,10 +14,10 @@ The first was started in 2017 and later discontinued at 96 chapters.<br>
 The second adaptation was started in 2025 as a fan project and is currently still ongoing.
 
 # Chapters
-[1](../chapter/1/en.md)
+[1](../chapter/1/en.md), [2](../chapter/2/en.md)
 
 # Characters
-[Fang Yuan](../character/Fang_Yuan/en.md), [Bai Ning Bing](../character/Bai_Ning_Bing/en.md), [Gu Yue clan head](../character/Gu_Yue_clan_head/en.md), [Fang Zhi](../character/Fang_Zhi/en.md)
+[Fang Yuan](../character/Fang_Yuan/en.md), [Bai Ning Bing](../character/Bai_Ning_Bing/en.md), [Gu Yue clan head](../character/Gu_Yue_clan_head/en.md), [Fang Zhi](../character/Fang_Zhi/en.md), [Fang Zheng](../character/Fang_Zheng/en.md), [Aunt of Fang Yuan](../character/Fang_Aunt/en.md), [Uncle of Fang Yuan](../character/Fang_Uncle/en.md)
 
 # Gus
 [Spring Autumn Cicada](../gu/Spring_Autumn_Cicada/en.md)
